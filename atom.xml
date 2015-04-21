@@ -4,7 +4,7 @@
   <title><![CDATA[DevOpsDays MSP]]></title>
   <link href="http://devopsdaysmsp.github.io/atom.xml" rel="self"/>
   <link href="http://devopsdaysmsp.github.io/"/>
-  <updated>2014-08-15T09:42:28-05:00</updated>
+  <updated>2015-04-21T15:42:31-05:00</updated>
   <id>http://devopsdaysmsp.github.io/</id>
   <author>
     <name><![CDATA[DevOpsDays MSP Organizers]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Devopsdays Minneapolis 2015]]></title>
+    <link href="http://devopsdaysmsp.github.io/blog/2015/04/21/devopsdays-minneapolis-2015/"/>
+    <updated>2015-04-21T15:17:54-05:00</updated>
+    <id>http://devopsdaysmsp.github.io/blog/2015/04/21/devopsdays-minneapolis-2015</id>
+    <content type="html"><![CDATA[<p>With planning for <a href="http://www.devopsdays.org/events/2015-minneapolis/">devopsdaysMSP 2015</a> well underway, we thought it might be nice to tell you a bit about what&rsquo;s the same and what&rsquo;s different.</p>
+
+<p>Organizers <a href="twitter.com/mfdii">Michael Ducy</a> and <a href="https://twitter.com/marisabrandt">Marisa Brandt</a> were key to <a href="http://www.devopsdays.org/events/2014-minneapolis/">devopsdaysMSP 2014</a>&rsquo;s success, but aren&rsquo;t able to participate in the organizing for 2015. We thank them for all the work they did! Meanwhile, new organizer <a href="https://twitter.com/hmmickman">Heather Mickman</a> has joined the team. Welcome, Heather!</p>
+
+<p>We&rsquo;ve got a distributed planning model, with various tasks happening in parallel:</p>
+
+<ul>
+<li>Sponsors are working with <a href="https://twitter.com/tomduffield">Tom Duffield</a> again, and <a href="https://twitter.com/dberkholz">Donnie Berkholz</a> is also lending his insights and expertise in that area.</li>
+<li>Venue &amp; catering is now the realm of <a href="https://twitter.com/ajdomie">Andy Domeier</a>, who did great work last year on the evening event.</li>
+<li><a href="https://twitter.com/hmmickman">Heather Mickman</a> and <a href="https://twitter.com/tonynotto">Tony Notto</a> are coordinating the evening social event, which promises to be great fun.</li>
+<li>Jeff Williams will bring his layout and organizational skills to bear again on the signage and open space logistics.</li>
+<li><a href="https://twitter.com/bridgetkromhout">Bridget Kromhout</a> is coordinating the program and speakers.</li>
+</ul>
+
+
+<p>Speaking of the program, our CFP just closed, but we can tell you one thing thus far: <a href="https://twitter.com/beerops">Katherine Daniels</a> of <a href="https://codeascraft.com/">Etsy</a> will deliver our opening keynote, and we couldn&rsquo;t be more thrilled.</p>
+
+<p>There are of course many other areas too, and we continue to work out the details, but one thing&rsquo;s certain: <a href="http://www.devopsdays.org/events/2015-minneapolis/registration/">register before May 31st for your best price</a>, and plan to join in the conversations we&rsquo;ll have at the downtown Minneapolis Hilton on July 8 &amp; 9!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[DevOpsDays MSP 2014 Survey Results]]></title>

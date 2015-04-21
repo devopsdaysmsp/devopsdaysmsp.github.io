@@ -8,7 +8,7 @@ categories:
 
 With planning for [devopsdaysMSP 2015](http://www.devopsdays.org/events/2015-minneapolis/) well underway, we thought it might be nice to tell you a bit about what's the same and what's different.
 
-Organizers [Michael Ducy](twitter.com/mfdii) and [Marisa Brandt](https://twitter.com/marisabrandt) were key to [devopsdaysMSP 2014](http://www.devopsdays.org/events/2014-minneapolis/)'s success, but aren't able to participate in the organizing for 2015. We thank them for all the work they did! Meanwhile, new organizer [Heather Mickman](https://twitter.com/hmmickman) has joined the team. Welcome, Heather!
+Organizers [Michael Ducy](https://twitter.com/mfdii) and [Marisa Brandt](https://twitter.com/marisabrandt) were key to [devopsdaysMSP 2014](http://www.devopsdays.org/events/2014-minneapolis/)'s success, but aren't able to participate in the organizing for 2015. We thank them for all the work they did! Meanwhile, new organizer [Heather Mickman](https://twitter.com/hmmickman) has joined the team. Welcome, Heather!
 
 We've got a distributed planning model, with various tasks happening in parallel:
 
